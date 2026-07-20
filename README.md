@@ -14,7 +14,9 @@ Designing a honeypot is a 'Psychological Engineering' exercise in which if the t
 ## Results
 Unlike low-interaction tripwires, the medium-interaction layer captured specific post-compromise behaviors.  
 ![Kibana Dashboard](ELK_1_1_1-011.png)
+
 ![Credential Analysis](ELK_1_1_1-012.png)
+
 ## Conclusion
   
 The project successfully met its primary objective which was the creation of a forensic-ready, medium-interaction honeypot system integrated with a real-time SIEM. By moving data instantly from the 'Sensor' (Debian) to the 'Storage' (Elasticsearch). This system had achieved a level of forensic integrity that remained resilient even in the event of deletion of local logs. This architecture serves as a blueprint for proactive network defence in an increasingly hostile threat landscape. 
