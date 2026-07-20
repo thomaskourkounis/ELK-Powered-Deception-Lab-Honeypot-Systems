@@ -13,7 +13,7 @@ Designing a honeypot is a 'Psychological Engineering' exercise in which if the t
 ![Network Architecture](ELK_1_1_1-002.png)
 ## Results
 Unlike low-interaction tripwires, the medium-interaction layer captured specific post-compromise behaviors.  
-![Kibana Dashboard](ELK_1_1_1-011.png)
+![Used Ports](ELK_1_1_1-014.png)
 
 ![Credential Analysis](ELK_1_1_1-012.png)
 
