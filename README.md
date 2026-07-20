@@ -10,12 +10,11 @@ The aim of this project is to design, deploy, and evaluate a controlled honeypot
 
 ## Deception Architecture
 Designing a honeypot is a 'Psychological Engineering' exercise in which if the trap looks too easy to the attacker, then the intruders will be suspicious about it and if it is too hard, it is possible that they might leave it. Therefore, a Multi-Layered Architecture has been designed to solve this problem.
-
+![Network Architecture](ELK_1_1_1-002.png)
 ## Results
-Total Login Attempts: 18,221  
-
 Unlike low-interaction tripwires, the medium-interaction layer captured specific post-compromise behaviors.  
-
+![Kibana Dashboard](ELK_1_1_1-011.png)
+![Credential Analysis](ELK_1_1_1-012.png)
 ## Conclusion
   
 The project successfully met its primary objective which was the creation of a forensic-ready, medium-interaction honeypot system integrated with a real-time SIEM. By moving data instantly from the 'Sensor' (Debian) to the 'Storage' (Elasticsearch). This system had achieved a level of forensic integrity that remained resilient even in the event of deletion of local logs. This architecture serves as a blueprint for proactive network defence in an increasingly hostile threat landscape. 
