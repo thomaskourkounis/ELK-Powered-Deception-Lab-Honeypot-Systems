@@ -21,13 +21,12 @@ Every day the digital world is getting more dangerous, and standard defenses are
   
 The project successfully met its primary objective which was the creation of a forensic-ready, medium-interaction honeypot system integrated with a real-time SIEM. By moving data instantly from the 'Sensor' (Debian) to the 'Storage' (Elasticsearch). This system had achieved a level of forensic integrity that remained resilient even in the event of deletion of local logs. This architecture serves as a blueprint for proactive network defence in an increasingly hostile threat landscape. 
 
-
 ## Technical Documentation
-If you are interested in the full research findings, methodology, and legal compliance review, you can download the complete project report here:
-[Download Full Project Report (PDF)](## Technical Documentation
-If you are interested in the full research findings, methodology, and legal compliance review, you can download the complete project report here:
-[Download Full Project Report (PDF)](ELK-PROJECT-FNL.pdf)
 
+
+If you are interested in the full research findings, methodology, and legal compliance review, you can download the complete project report here:
+
+[**Download Full Project Report (PDF)**](ELK-PROJECT-FNL.pdf)
 
 
 
