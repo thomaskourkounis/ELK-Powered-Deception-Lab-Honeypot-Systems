@@ -26,7 +26,8 @@ The project successfully met its primary objective which was the creation of a f
 
 If you are interested in the full research findings, methodology, and legal compliance review, you can download the complete project report here:
 
-[**Download Full Project Report (PDF)**](ELK-PROJECT-FNL3.pdf)
+[**Download Full Project Report (PDF)**](ELK-PROJECT-FNL2 compressed.pdf)
+
 
 
 
